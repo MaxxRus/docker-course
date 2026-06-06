@@ -1,4 +1,0 @@
-FROM almalinux:9
-RUN dnf update -y
-CMD ["/bin/bash"]
-
